@@ -39,7 +39,7 @@ const loadQuestion = () => {
     }
 
     reset();
-    // qestion ke index se data nikalenge
+    // question index are data find out
     const data = questions[index];
     console.log(data);
     // template litral to shrinlk value get to dollar sign
