@@ -52,7 +52,7 @@ const loadQuestion = () => {
 };
 
 
-function submitQuize() {
+function submitQuiz()() {
     const data = questions[index];
     const ans = getAnswer();
     if (ans === data.correct) {
